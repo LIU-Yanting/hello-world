@@ -1,5 +1,2 @@
 # hello-world
-First repository
-
-Hi everyone!
-I am a Ph.D. student. 
+The folder contains some Python files that are worthy of review for Python beginners.
